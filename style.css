@@ -1,0 +1,28 @@
+img{
+    width: 150px;
+    height: auto;
+    border: 3px solid #bbbb06;
+
+    }
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+align-content: center;
+}
+
+.animals{
+display: flex;
+justify-content: space-between;
+flex-wrap:wrap;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu{
+padding-bottom:30px;
+
+}
+
+body{
+background-color: #FAFCFF;
+
+}
